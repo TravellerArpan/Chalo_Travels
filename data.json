@@ -1,0 +1,248 @@
+
+   { "data" : [
+        {
+        "img_src" : [   "./Images/Maharastra.jpg" , "./Images/AndhraPradeshtag.jpeg" ] , 
+        "h3cont" : "Maharashtra" ,
+        "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+        "h4cont": 65000 , 
+        "spancont" : 73000  
+        }
+        , 
+        {
+            "img_src" : ["./Images/AndhraPradesh.jpeg" , "./Images/Incredible India.jpeg" ], 
+            "h3cont" : "Andhra Pradesh" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 75000 , 
+            "spancont" : 83000  
+        } , 
+        {
+            "img_src" : ["./Images/ArunachalPradesh.jpeg" , "./Images/Incredible India.jpeg"  ], 
+            "h3cont" : "Arunachal Pradesh" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 63000 , 
+            "spancont" : 73000  
+        },
+        {
+            "img_src" : ["./Images/Assam.jpeg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Assam" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+             "h4cont": 60000 , 
+            "spancont" : 75000  
+        } , 
+        {
+            "img_src" : ["./Images/Bihar.jpeg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Bihar" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }   , 
+        {
+            "img_src" : ["./Images/Chhattisgarh.jpg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Chhattisgarh" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 64000 , 
+            "spancont" : 70000  
+        }   , 
+        {
+            "img_src" : ["./Images/Goa.jpeg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Goa" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }   , 
+        {
+            "img_src" : ["./Images/Gujarat.jpg", "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Gujarat" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }   ,
+        {
+            "img_src" : ["./Images/Haryana.jpg" , "./Images/Incredible India.jpeg"  ], 
+            "h3cont" : "Haryana" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 89000 , 
+            "spancont" : 100000  
+        }  , 
+        {
+            "img_src" : ["./Images/himachalPradesh.jpeg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Himachal Pradesh" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }  , 
+        {
+            "img_src" :["./Images/Jharkhand.jpeg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Jharkhand" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 45000 , 
+            "spancont" : 53000  
+        }  , 
+        {
+            "img_src" : ["./Images/Karnataka.jpeg", "./Images/Incredible India.jpeg" ], 
+            "h3cont" : "Karnataka" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 67000 , 
+            "spancont" : 77300  
+        }  , 
+        {
+            "img_src" : ["./Images/Kerala.jpeg", "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Kerala" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 75000 , 
+            "spancont" : 93000  
+        }  , 
+        {
+            "img_src" : ["./Images/Madhya Pradesh.jpeg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Madhya Pradesh" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }   , 
+        {
+            "img_src" : ["./Images/Manipur.jpeg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Manipur" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 56000 , 
+            "spancont" : 65000  
+        }  , 
+        {
+            "img_src" : ["./Images/Madhya Pradesh.jpeg" , "./Images/Incredible India.jpeg" ] , 
+            "h3cont" : "Madhya Pradesh" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }  , 
+        {
+            "img_src" : ["./Images/meghalaya.jpeg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Meghalaya" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 89000 , 
+            "spancont" : 109000  
+        }  , 
+        {
+            "img_src" : [ "./Images/Mizoram.jpg" , "./Images/Incredible India.jpeg"] , 
+            "h3cont" : "Mizoram" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }  , 
+        {
+            "img_src" : ["./Images/Nagaland.jpeg", "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Nagaland" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }  , 
+        {
+            "img_src" : ["./Images/Odisha.jpeg" , "./Images/Incredible India.jpeg"] , 
+            "h3cont" : "Odisha" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 75000 , 
+            "spancont" : 83000  
+        }  , 
+        {
+            "img_src" : ["./Images/Punjab.jpeg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Punjab" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 65000 , 
+            "spancont" : 73000  
+        }  , 
+        {
+            "img_src" : ["./Images/Sikim.jpeg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Sikim" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 62000 , 
+            "spancont" : 70000  
+        }  , 
+        {
+            "img_src" : ["./Images/Rajasthan.jpg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Rajasthan" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 80000 , 
+            "spancont" : 92000  
+        } , 
+        {
+            "img_src" : ["./Images/TamilNadu.jpeg"  , "./Images/Incredible India.jpeg"] , 
+            "h3cont" : "TamilNadu" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 89000 , 
+            "spancont" : 102000  
+        }  , 
+        {
+            "img_src" : ["./Images/Telangana.jpg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Telangana" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 67000 , 
+            "spancont" : 100000  
+        }  , 
+        {
+            "img_src" : ["./Images/Tripura.jpeg" , "./Images/Incredible India.jpeg"] , 
+            "h3cont" : "Tripura" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 90000 , 
+            "spancont" : 102000  
+        }  , 
+        {
+            "img_src" : ["./Images/Uttar Pradesh.jpg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Uttar Pradesh" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 90000 , 
+            "spancont" : 102000  
+        }  , 
+        {
+            "img_src" : ["./Images/Uttarakhand.jpg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "Uttarakhand" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 90000 , 
+            "spancont" : 102000  
+        }   , 
+        {
+            "img_src" : ["./Images/West Bengal.jpg" , "./Images/Incredible India.jpeg"]  , 
+            "h3cont" : "West Bengal" ,
+            "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quisquam eaque quasi eveniet. Perspiciatis" , 
+            "h4cont": 89000 , 
+            "spancont" : 98000  
+        }  
+    ] , 
+    "service_card" : [
+        {
+            "card_class" : " fa-sharp fa-solid fa-utensils" , 
+            "heading" : "Food And Drinks",
+            "paragraph" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt facilis at eveniet necessitatibus neque saepe!"               
+        } , 
+        {
+            "card_class" : " fa-sharp fa-solid fa-hotel" , 
+            "heading" : "Affordable Rooms",
+            "paragraph" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt facilis at eveniet necessitatibus neque saepe!"               
+        } , 
+        {
+            "card_class" : " fa-sharp fa-solid fa-globe-pointer" , 
+            "heading" : "Around The World",
+            "paragraph" :  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt facilis at eveniet necessitatibus neque saepe!"             
+        } , 
+        {
+            "card_class" : " fa-solid fa-plane" , 
+            "heading" : "Fastest Travel",
+            "paragraph" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt facilis at eveniet necessitatibus neque saepe!"              
+        } , 
+        {
+            "card_class" : " fa-duotone fa-mountains" , 
+            "heading" : "Adventures",
+            "paragraph" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt facilis at eveniet necessitatibus neque saepe!"               
+        } , 
+        {
+            "card_class" : " fa-sharp fa-solid fa-megaphone" , 
+            "heading" : "Safety Guides",
+            "paragraph" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt facilis at eveniet necessitatibus neque saepe!"               
+        }
+    ]  , 
+    
+    "gallery4" : [
+        {"img_src" : "./Images/Kashmir.jpg"} ,
+        {"img_src" : "./Images/Kerala.jpeg"} , 
+        {"img_src" : "./Images/Madhya Pradesh.jpeg"} , 
+        {"img_src" : "./Images/Maharastra.jpg"}    
+    ] 
+
+}

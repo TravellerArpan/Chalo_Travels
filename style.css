@@ -1,0 +1,302 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* font-family: "Yatra One", system-ui; */
+    /* font-family: "Averia Gruesa Libre", system-ui; */
+}
+#header{
+    background-color: #00224D;
+    width: 100%;
+    height: 4rem;
+    text-align: center;
+    font-family: "Yatra One", system-ui;
+}
+#header > nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header > nav > #leftnav{
+    width: 20%;
+}
+
+#header > nav > #leftnav>h3{
+    color: #f6f6f6;
+    font-size: 2rem;
+    margin: 0;
+} 
+#header > nav > #leftnav>h3 > p{
+    display: inline-block;
+
+    font-size: 1.2rem;
+    color: #FF204E;
+}
+#header > nav > #midnav{
+    width: 50%;
+}
+#header > nav > #midnav>ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+}
+#header > nav > #midnav> ul > li >  a {
+    text-decoration: none;
+    color: #FF204E;
+    font-size: 1.2rem;
+    transition: .5s ease-in-out;
+}
+#header > nav > #midnav > ul > li > a:hover{
+    color: #f6f6f6;
+}
+#header > nav > #rightnav {
+    width: 25%;
+}
+#header > nav > #rightnav > input{
+    width: 80%;
+    height: 2rem;
+    border-radius: 5px;
+    border: none;
+}
+#header > nav > #rightnav > button{
+    background-color: #FF204E;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px #000;
+    font-size: 20px;
+    height: 35px;
+}
+#header > nav > #rightnav > button:hover{
+    background-color: #00224D;
+    color: #f6f6f6;
+}
+#header > nav > #rightnav > button:active{
+    box-shadow: none;
+}
+/**********************************************/
+#home{
+    background-image: url("./Images/Kashmir.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* height: 34rem; */
+    font-family: "Averia Gruesa Libre", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#home> #container{
+    display: block;
+    background-color: #0000006f;
+    margin: auto;
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+}
+#home >#container> h1{
+    width: 100%;
+    margin: 0;
+    color: #f6f6f6;
+    font-size: 4rem;
+    font-family: "Yatra One", system-ui;
+} 
+#home >#container> h4{
+    color: #FF204E;
+    font-size: 1.5rem;
+}
+#home >#container > button {
+    width: 10%;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+    margin: auto 10px;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: #00224D;
+    color: #f6f6f6;
+    box-shadow: 2px 2px 4px #000208;
+    font-family: "Yatra One", system-ui;
+}
+#home >#container > button:hover{
+    background-color: #042044;
+}
+#home >#container > button:active{
+    box-shadow: none;
+}
+#packages {
+    width: 85%;
+    color: #000;
+    margin: 2rem auto;
+    font-family: "Yatra One", system-ui;
+}
+.title1 {
+    margin: auto;
+    margin-bottom: 2.5rem;
+    display: flex;
+    width: 32%;
+    justify-content: space-between;
+}
+.title1 > p{
+    background-color: #ff204d4f;
+    color: #FF204E;
+    border: .3px solid #FF204E;
+    border-radius: 2px;
+    width: 2.25rem;
+    font-size: 2rem;
+    text-align: center;
+}
+#package_cards{
+    width: 100%;
+    background-color: #f6f6f6;
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    row-gap: 2rem;
+    column-gap: 2rem;
+}
+#package_cards > .card {
+    width: 100%;
+    background-color: #fff;
+}
+#package_cards > .card > img{
+    width: 100%;
+    height: 18rem;
+}
+#package_cards > .card > h3{
+    font-size: 1.25rem;
+    width: 90%;
+    margin: 10px auto;
+}
+.fa-location-dot{
+    color: #ff204d;
+    margin-right: 10px;
+}
+#package_cards > .card > p{
+    width: 90%;
+    margin: 5px auto;
+    color: #818181;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: "Averia Gruesa Libre", system-ui;
+
+}
+#package_cards > .card > h4 {
+    font-size: 13px;
+    color: #505050;
+    width: 90%;
+    margin: 10px auto;
+}
+#package_cards > .card > h4 > span{
+    font-size: 11px;
+    padding-left: 5px;
+    color: #8d8c8c;
+    text-decoration: line-through;
+}
+#package_cards > .card > button {
+    cursor: pointer;
+    width: 90%;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: #ff204d;
+    color: #fff;
+    border: 2px solid #FF204E;
+    border-radius: 2px;
+}
+#package_cards > .card > button:hover{
+    background-color: #ff204d4f;
+    color: #FF204E;
+}
+
+/* /////////////////////////////// */
+
+#services {
+    width: 85%;
+    color: #000;
+    margin: 3rem auto;
+    font-family: "Yatra One", system-ui;
+}
+#services_card{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    column-gap: 2rem;
+    row-gap: 2rem;
+}
+#services_cont{
+    height: 18rem;
+    text-align: center;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+    padding: 2rem 0rem;
+    transition: 30ms ease-in-out;
+}
+
+#services_cont:hover{
+    /* border: .5px solid #ff204d; */
+    /* box-shadow: 2px 2px 2px #ff204d; */
+}
+#services_cont .card_icon{
+    font-size: 4rem;
+}
+#services_cont > h4 {
+    font-size: 2rem;
+}
+#services_cont > p {
+    width: 90%;
+    font-size: 1rem;
+    font-family: "Averia Gruesa Libre", system-ui;
+    margin: auto;
+}
+
+#gallery{
+    width: 85%;
+    margin: auto;
+    font-family: "Yatra One", system-ui;
+}
+#cont_gallery{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-template-rows: repeat(3 , 1fr);
+    row-gap: 2rem;
+    column-gap: 2rem;
+}
+.first{
+    grid-column-start: 1 ;
+    grid-column-end: 3;
+}
+.first > img{
+    width: 100%;
+    height: 30.5rem;
+}
+.sec {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    
+}
+.slot2 > img{
+    width: 100%;
+    height: 30.5rem;
+}
+.third {
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+.third > img {
+    /* width: 100%;
+    height: 30.5rem; */
+}
+
+
+
+
+.slot3 > img{
+    width: 100%;
+
+}
